@@ -15,7 +15,7 @@ There are three modules:
 2. Alarms
 3. Admin
 
-Every module has separeted services, views and controllers.
+Every module has separated services, views and controllers.
 
 Module admin consuming services (AlarmService and DocumentService) from relevant modules.
 
